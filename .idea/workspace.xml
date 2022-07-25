@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="881edef7-e204-4dda-bd92-8842ae686cb4" name="Changes" comment="" />
+    <list default="true" id="c614bf2f-15bf-4135-8c45-b60753f8a478" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,39 +16,58 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2CInrqrVxSeEMX5ixk7futtNAJB" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2CQe4tXGjiBr9mgj1H94u1l94fq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/OneDrive - Lipari People/Desktop/git condivisi/LT_Spring_exercises",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "spring.configuration.checksum": "d8ee48abcbfc8aead332136b57cf3bcf"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LtSpringExercisesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LT_Spring_exercises" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.lt_spring_exercises.LtSpringExercisesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="881edef7-e204-4dda-bd92-8842ae686cb4" name="Changes" comment="" />
-      <created>1658499167459</created>
+      <changelist id="c614bf2f-15bf-4135-8c45-b60753f8a478" name="Changes" comment="" />
+      <created>1658739055355</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658499167459</updated>
-      <workItem from="1658499168632" duration="2213000" />
+      <updated>1658739055355</updated>
+      <workItem from="1658739056569" duration="205000" />
+      <workItem from="1658739265679" duration="275000" />
     </task>
     <servers />
   </component>
@@ -62,8 +84,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
