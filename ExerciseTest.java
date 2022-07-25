@@ -5,7 +5,7 @@ public class ExerciseTest {
 		System.out.println("Ciao Marco!");
 		System.out.println("Ciao stefano!");
 		System.out.println("Ciao da IntelliJ");
-		System.out.println("Ora posso pubblicare da eGit");
+		System.out.println("Ora posso pubblicare da Sourcetree");
 	}
 
 }
