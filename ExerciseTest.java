@@ -5,6 +5,7 @@ public class ExerciseTest {
 		System.out.println("Ciao Marco!");
 		System.out.println("Ciao stefano!");
 		System.out.println("Ciao da IntelliJ");
+		System.out.println("Ciao di nuovo da STS, finalmente con eGit");
 	}
 
 }
