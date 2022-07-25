@@ -6,6 +6,7 @@ public class ExerciseTest {
 		System.out.println("Ciao stefano!");
 		System.out.println("Ciao da IntelliJ");
 		System.out.println("Ora posso pubblicare da Sourcetree");
+		System.out.println("Prova con eGit");
 	}
 
 }
